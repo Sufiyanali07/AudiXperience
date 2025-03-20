@@ -11,7 +11,7 @@ const Navbar = () => {
   // const [isOpen, setIsOpen] = useState(false);
   return (
     <>
-      <nav className="sticky top-0 z-50 py-3 bg-black border-b border-neutral-700/80 mt-20">
+      <nav className="sticky top-0 z-50 py-3 bg-black border-b border-neutral-700/80 mt-5">
         <div className="container px-4 mx-auto relative lg:text-sm">
           <div className="flex justify-between items-center scroll-smooth">
             <div className="flex items-center flex-shrink-0">
